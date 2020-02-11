@@ -45,7 +45,7 @@ CREATE TABLE [dbo].[CommonLookup](
 GO
 
 Insert Into [Services] ([ServiceName],[CategoryLkpId],[CategoryLkpName], 
-[ServiceType],[Timing], [CreatedBy],[CreatedDate],[ModifiedBy],[ModifiedDate]) Values ('Senthil','1','Repairs','Laptop','12''SYS-Created',GetDate(),'SYS-Created',GetDate())
+[ServiceType],[Timing], [CreatedBy],[CreatedDate],[ModifiedBy],[ModifiedDate]) Values ('Senthil','1','Repairs','Laptop','12','SYS-Created',GetDate(),'SYS-Created',GetDate())
 
 
 DECLARE @LookUpType		VARCHAR(50) = '',
