@@ -1,0 +1,17 @@
+C:\IndiaHomeServices\LMS-master\LibraryManagement.Models\bin\Debug\LibraryManagement.Models.dll
+C:\IndiaHomeServices\LMS-master\LibraryManagement.Models\bin\Debug\LibraryManagement.Models.pdb
+C:\IndiaHomeServices\LMS-master\LibraryManagement.Models\obj\Debug\HomeServices.Models.csproj.CoreCompileInputs.cache
+C:\IndiaHomeServices\LMS-master\LibraryManagement.Models\obj\Debug\LibraryManagement.Models.dll
+C:\IndiaHomeServices\LMS-master\LibraryManagement.Models\obj\Debug\LibraryManagement.Models.pdb
+C:\IndiaHomeServices\LMS-master\HomeServices.Models\bin\Debug\LibraryManagement.Models.dll
+C:\IndiaHomeServices\LMS-master\HomeServices.Models\bin\Debug\LibraryManagement.Models.pdb
+C:\IndiaHomeServices\LMS-master\HomeServices.Models\obj\Debug\HomeServices.Models.csprojAssemblyReference.cache
+C:\IndiaHomeServices\LMS-master\HomeServices.Models\obj\Debug\HomeServices.Models.csproj.CoreCompileInputs.cache
+C:\IndiaHomeServices\LMS-master\HomeServices.Models\obj\Debug\LibraryManagement.Models.dll
+C:\IndiaHomeServices\LMS-master\HomeServices.Models\obj\Debug\LibraryManagement.Models.pdb
+C:\IndiaHomeServices\IndiaHomeServices\HomeServices.Models\bin\Debug\LibraryManagement.Models.dll
+C:\IndiaHomeServices\IndiaHomeServices\HomeServices.Models\bin\Debug\LibraryManagement.Models.pdb
+C:\IndiaHomeServices\IndiaHomeServices\HomeServices.Models\obj\Debug\HomeServices.Models.csprojAssemblyReference.cache
+C:\IndiaHomeServices\IndiaHomeServices\HomeServices.Models\obj\Debug\HomeServices.Models.csproj.CoreCompileInputs.cache
+C:\IndiaHomeServices\IndiaHomeServices\HomeServices.Models\obj\Debug\LibraryManagement.Models.dll
+C:\IndiaHomeServices\IndiaHomeServices\HomeServices.Models\obj\Debug\LibraryManagement.Models.pdb

@@ -1,0 +1,26 @@
+﻿@page
+@model HomeServices.UI.Pages.ListModel
+@{
+    ViewData["Title"] = "Home Services - List Page";
+}
+<script src="~/js/lib/jquery-3.4.1.js"></script>
+<script src="~/js/lib/jquery-ui.js"></script>
+<script src="~/js/RequestService.js"></script>
+<div id="divListGrid" style="margin-top:20px;">
+    <table id="tblListDetail" border="1">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Service Category</th>
+                <th>Service Input</th>
+                <th>Service Timings</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td colspan="4" >No Record Found</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+

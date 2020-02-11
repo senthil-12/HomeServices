@@ -1,0 +1,6 @@
+C:\IndiaHomeServices\LMS-master\HomeServices.Models\bin\Release\LibraryManagement.Models.dll
+C:\IndiaHomeServices\LMS-master\HomeServices.Models\bin\Release\LibraryManagement.Models.pdb
+C:\IndiaHomeServices\LMS-master\HomeServices.Models\obj\Release\HomeServices.Models.csproj.CoreCompileInputs.cache
+C:\IndiaHomeServices\LMS-master\HomeServices.Models\obj\Release\LibraryManagement.Models.dll
+C:\IndiaHomeServices\LMS-master\HomeServices.Models\obj\Release\LibraryManagement.Models.pdb
+C:\IndiaHomeServices\LMS-master\HomeServices.Models\obj\Release\HomeServices.Models.csprojAssemblyReference.cache

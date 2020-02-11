@@ -1,0 +1,60 @@
+﻿@page
+@model HomeServices.UI.Pages.RequestModel
+@{
+    ViewData["Title"] = "Home Services - Request Service";
+}
+
+<style>
+    .divContent {
+        padding: 10px;
+        font-size: 16px;
+    }
+
+    .divContent label {
+        width: 150px;
+        display: inline-block;
+    }
+
+    .divContent div {
+        width: 72%;
+        display: block;
+        padding: 5px;
+    }
+
+    input[type='text'], textarea, select {
+        width: 250px;
+        padding: 5px;
+    }
+</style>
+
+<script src="~/js/lib/jquery-3.4.1.js"></script>
+<script src="~/js/lib/jquery-ui.js"></script>
+<script src="~/js/RequestService.js"></script>
+
+<div id="divPageContainer">
+    <div class="">
+        <h4>Add Request</h4>
+    </div>
+    <div class="divContent" style="margin-top:20px;">
+        <div>
+            <label>Request Name:</label>
+            <input id="txtRequestName" />
+        </div>
+        <div>
+            <label>Service Category :</label>
+            <select id="drpCategory"><option>Please Select</option></select>
+        </div>
+        <div>
+            <label>Service Type(Inputs) :</label>
+            <input id="txtServiceInput" />
+        </div>
+        <div>
+            <label>Service Timings :</label>
+            <input id="txtTiming" />
+        </div>
+    </div>
+    <div style="margin-top:20px;">
+        <button id="btnSubmit">Save</button>
+    </div>
+</div>
+
